@@ -1,8 +1,5 @@
 # Date: April 24, 2016
 # These pair of functions cache the inverse of a matrix
-#
-
-
 
 makeCacheMatrix <- function(x = matrix()) {
     I <- NULL #create a place holder 
